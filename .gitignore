@@ -1,0 +1,19 @@
+**/target/
+/target/
+/bin/
+*/bin/*
+*/target/*
+.classpath
+.project
+.settings
+
+# Package Files #
+*.jar
+*.war
+*.ear
+
+*.iml
+*.idea
+
+#dist files #
+*/dist/*
